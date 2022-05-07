@@ -1,6 +1,6 @@
 # myportfolio
 > This portfolio webiste introduces my personal background and after-school interests. <br/>
-> Link [_here_](yifanchen0820.me). 
+
 
 ## Table of Contents
 * [General Introduction](#general-introduction)
