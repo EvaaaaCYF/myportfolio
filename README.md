@@ -6,7 +6,7 @@
 * [General Introduction](#general-introduction)
 * [About Me](#about-me)
 * [Contact Information](#contact-information)
-
+* [What I Learned](#what-i-learned)
 <!-- * [License](#license) -->
 
 
@@ -28,3 +28,6 @@
 - My address
 - My contact information
 
+
+## What I Learned
+I got knowledge about how to create a website, how to use GitHub and GitHub website fluently, and how to edit and improve a website design.
